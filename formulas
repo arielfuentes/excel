@@ -1,0 +1,1 @@
+SI(SUMAPRODUCTO((B$2:B2=B2)*1)>1,0,1) #para contar unico en tabla dinamica
